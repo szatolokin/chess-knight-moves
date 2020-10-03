@@ -10,3 +10,7 @@ Description:
 v 0.1.0:
 
   - add chess board
+
+v 0.2.0
+
+  - add show knight moves on board click
